@@ -1,29 +1,27 @@
 
 
 ###################
-Criando um Radar Arduíno com monitoramento pelo PC
+Criando Robô para Jogar o Game Dino Run T-REX com Arduíno
 ###################
 
-Neste vídeo vamos criar u protótipo de um Radar que ficará rastreando se objetos estão chegando próximos a ele e o resultado da sua varredura será mostrada em tela no Computador.
+Neste vídeo vamos criar um simples robô capaz de identificar obstáculos e reagir a eles de forma automática.
 
 *******************
-Link com instruções em vídeo: https://youtu.be/xLisFiPiG5g
+Link com instruções em vídeo: 
 *******************
 
 Lista de Dispositivos:
 
 - 1 Arduíno Uno;
 - 1 Protoboard;
-- 4 Jumpers Macho/Fêmea;
-- 7 Jumpers Macho/Macho;
-- 1 Sensor de Ultrassom HC-SR04;
-- 1 Micro Servo Motor de 9g;
-- Alguns elásticos e um pedaço de papel para criação da base.
-
-Link para download do Processing: http://bit.ly/2K2JKx3
-
-Todos os dispositivos usados neste vídeo você encontra no Kit de Arduino Iniciante V8 da Robocore neste Link: http://bit.ly/2UfXYvK
-
+- 1 Módulo Relê 5V;
+- 1 Sensor LDR;
+- 1 Resistor de 10k
+- Jumpers;
+- 1 Moeda;
+- Papel Alumínio;
+- Fita Transparente;
+- Chave Phillips;
 
 
 
