@@ -7,7 +7,7 @@ Criando Robô para Jogar o Game Dino Run T-REX com Arduíno
 Neste vídeo vamos criar um simples robô capaz de identificar obstáculos e reagir a eles de forma automática.
 
 *******************
-Link com instruções em vídeo: 
+Link com instruções em vídeo: https://youtu.be/YlDd1x_223Q
 *******************
 
 Lista de Dispositivos:
